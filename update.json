@@ -1,0 +1,7 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/dnloster/lumo-releases/releases/download/v1.1.0/lumo-release.apk",
+  "notes": "Bản hiện tại. Upload APK lên GitHub Release v1.1.0 rồi sửa file này khi có bản mới.",
+  "forceUpdate": false
+}
