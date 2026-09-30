@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3.0",
-  "apkUrl": "https://github.com/dnloster/lumo-releases/releases/download/v1.3.0/lumo-release.apk",
-  "notes": "- Sửa trình phát: chrome gộp, tua ±10s\n- Mini player không chồng full khi đổi tập\n- Giữ vị trí xem khi thu nhỏ / phóng to\n- Kéo thả di chuyển mini player",
+  "versionCode": 5,
+  "versionName": "1.4.0",
+  "apkUrl": "https://github.com/dnloster/lumo-releases/releases/download/v1.4.0/lumo-release.apk",
+  "notes": "- Player kiểu MX: vuốt ngang seek, đúp trái/phải ±10s\n- Vuốt trái/phải: sáng / âm lượng; đúp giữa play/pause\n- Khóa màn hình khi xem\n- Tốc độ phát 0.5x–2x\n- Fit / Crop / Stretch tỷ lệ khung",
   "forceUpdate": false
 }
