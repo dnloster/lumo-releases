@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6.0",
-  "apkUrl": "https://github.com/dnloster/lumo-releases/releases/download/v1.6.0/lumo-release.apk",
-  "notes": "## Lumo 1.6.0\n\n- Chrome player tùy chỉnh (ẩn JW gốc) + gesture cùng lớp\n- Mini / fullscreen dùng HLS ổn định (hết lỗi «Không tải được trình phát»)\n- Seek ±10, tốc độ phát, Fit/Crop/Stretch, danh sách tập\n- Thanh điều khiển gọn hơn (trái: seek/play · phải: tốc độ/fit/tập)",
+  "versionCode": 8,
+  "versionName": "1.6.1",
+  "apkUrl": "https://github.com/dnloster/lumo-releases/releases/download/v1.6.1/lumo-release.apk",
+  "notes": "## Lumo 1.6.1\n\n- Lịch sử tìm kiếm (lưu trên máy, không cần tài khoản)\n- Lịch sử xem / tiếp tục xem trên Trang chủ\n- Giữ tiến độ tập khi mở lại",
   "forceUpdate": false
 }
