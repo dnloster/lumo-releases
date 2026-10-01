@@ -1,0 +1,14 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "platform": "desktop",
+  "linux": {
+    "appImageUrl": "https://github.com/dnloster/lumo-releases/releases/download/desktop-v1.0.0/Lumo-1.0.0.AppImage",
+    "debUrl": "https://github.com/dnloster/lumo-releases/releases/download/desktop-v1.0.0/lumo-desktop_1.0.0_amd64.deb"
+  },
+  "windows": {
+    "zipUrl": "https://github.com/dnloster/lumo-releases/releases/download/desktop-v1.0.0/Lumo-1.0.0-win-x64.zip"
+  },
+  "notes": "## Lumo Desktop 1.0.0\n\n- Electron app (Windows 10+ / Ubuntu 18.04+)\n- UI PhimCu + PhimAPI\n- Lịch sử tìm / đã xem (local)\n- Linux: AppImage + .deb · Windows: zip portable",
+  "forceUpdate": false
+}
