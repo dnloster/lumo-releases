@@ -1,0 +1,8 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/dnloster/lumo-releases/releases/download/tv-v1.0.0/lumo-tv-release.apk",
+  "notes": "## Lumo TV 1.0.0\n\n- App Android TV / Android Box\n- UI PhimCu + PhimAPI\n- Lịch sử tìm / đã xem (local)\n- Điều khiển remote (D-pad)",
+  "forceUpdate": false,
+  "platform": "android-tv"
+}
