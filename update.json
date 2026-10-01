@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/dnloster/lumo-releases/releases/download/v1.4.0/lumo-release.apk",
-  "notes": "- Player kiểu MX: vuốt ngang seek, đúp trái/phải ±10s\n- Vuốt trái/phải: sáng / âm lượng; đúp giữa play/pause\n- Khóa màn hình khi xem\n- Tốc độ phát 0.5x–2x\n- Fit / Crop / Stretch tỷ lệ khung",
+  "versionCode": 6,
+  "versionName": "1.5.0",
+  "apkUrl": "https://github.com/dnloster/lumo-releases/releases/download/v1.5.0/lumo-release.apk",
+  "notes": "- Giao diện PhimCu: nền tối, đỏ, Montserrat\n- Player kiểu Netflix: gradient, thanh tiến trình đỏ, nút tối giản\n- Progress + ±10s / play trái, tốc độ & Fit phải\n- Khóa màn trên thanh trên",
   "forceUpdate": false
 }
