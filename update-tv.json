@@ -1,8 +1,8 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "https://github.com/dnloster/lumo-releases/releases/download/tv-v1.0.0/lumo-tv-release.apk",
-  "notes": "## Lumo TV 1.0.0\n\n- App Android TV / Android Box\n- UI PhimCu + PhimAPI\n- Lịch sử tìm / đã xem (local)\n- Điều khiển remote (D-pad)",
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apkUrl": "https://github.com/dnloster/lumo-releases/releases/download/tv-v1.0.1/lumo-tv-release.apk",
+  "notes": "## Lumo TV 1.0.1\n\n- Đổi icon app sang logo PhimCu\n- UI PhimCu + PhimAPI\n- Lịch sử tìm / đã xem (local)",
   "forceUpdate": false,
   "platform": "android-tv"
 }
