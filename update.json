@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5.0",
-  "apkUrl": "https://github.com/dnloster/lumo-releases/releases/download/v1.5.0/lumo-release.apk",
-  "notes": "- Giao diện PhimCu: nền tối, đỏ, Montserrat\n- Player kiểu Netflix: gradient, thanh tiến trình đỏ, nút tối giản\n- Progress + ±10s / play trái, tốc độ & Fit phải\n- Khóa màn trên thanh trên",
+  "versionCode": 7,
+  "versionName": "1.6.0",
+  "apkUrl": "https://github.com/dnloster/lumo-releases/releases/download/v1.6.0/lumo-release.apk",
+  "notes": "## Lumo 1.6.0\n\n- Chrome player tùy chỉnh (ẩn JW gốc) + gesture cùng lớp\n- Mini / fullscreen dùng HLS ổn định (hết lỗi «Không tải được trình phát»)\n- Seek ±10, tốc độ phát, Fit/Crop/Stretch, danh sách tập\n- Thanh điều khiển gọn hơn (trái: seek/play · phải: tốc độ/fit/tập)",
   "forceUpdate": false
 }
